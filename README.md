@@ -29,10 +29,6 @@
 
 ## 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alpkrsl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpkrsl&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Alpkrsl&theme=tokyonight&hide_border=true&fire=FF6B00&ring=FF6B00&currStreakLabel=FFB000" />
@@ -55,7 +51,7 @@ Hasta, doktor ve sekreter panelleriyle randevu yönetimi sağlayan masaüstü ot
 ### 🏦 Banka Otomasyon Sistemi  
 **C# • SQL Server**
 
-Hesap yönetimi, para transferi, işlem geçmişi ve SHA256 tabanlı kullanıcı doğrulama sistemi.
+Hesap yönetimi, para transferi ve işlem geçmişi.
 
 ---
 
