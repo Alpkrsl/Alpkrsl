@@ -3,10 +3,9 @@
 <h3 align="center">Modern, temiz ve ölçeklenebilir yazılım sistemleri geliştiriyorum</h3>
 
 <p align="center">
-  <a href="https://github.com/Alpkrsl">
-    <img src="https://img.shields.io/badge/GitHub-Alpkrsl-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://alpkrsl.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Web%20Sitem-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Alpkrsl&label=Profil%20Görüntülenme&color=38bdf8&style=for-the-badge" />
 </p>
 
 ---
@@ -16,14 +15,14 @@
 - 🎓 Yazılım Mühendisliği öğrencisiyim  
 - 💻 Full stack geliştirme ve yazılım mimarisiyle ilgileniyorum  
 - 🧩 Temiz, düzenli ve sürdürülebilir kod yapıları kurmayı seviyorum  
-- 🌱 Şu anda **ASP.NET, Vue.js, TypeScript, SQL ve Git** alanlarında kendimi geliştiriyorum  
+- 🌱 Şu anda **Django REST Framework, Vue.js, TypeScript, SQL ve Git** alanlarında kendimi geliştiriyorum  
 
 ---
 
 ## 🛠️ Kullandığım Diller ve Araçlar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,vue,html,css,bootstrap,python,cpp,mysql,postgresql,firebase,supabase,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=python,django,cs,dotnet,js,ts,vue,html,css,bootstrap,cpp,mysql,postgresql,firebase,supabase,git,github,vscode,visualstudio" />
 </p>
 
 ---
@@ -31,12 +30,15 @@
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alpkrsl&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=tr" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpkrsl&layout=compact&theme=tokyonight&hide_border=true&locale=tr" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alpkrsl&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alpkrsl&theme=highcontrast&hide_border=true&fire=FF6B00&ring=FF6B00&currStreakLabel=FFB000" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alpkrsl&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Alpkrsl&theme=tokyonight&hide_border=true&fire=FF6B00&ring=FF6B00&currStreakLabel=FFB000" />
 </p>
 
 ---
@@ -44,7 +46,7 @@
 ## 🏆 GitHub Başarılarım
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alpkrsl&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Alpkrsl&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
@@ -70,7 +72,7 @@ Hesap yönetimi, para transferi, işlem geçmişi ve SHA256 tabanlı kullanıcı
 
 ## 🎯 2026 Hedeflerim
 
-- ASP.NET ve backend geliştirme alanında uzmanlaşmak  
+- Django REST Framework ile güçlü backend sistemleri geliştirmek  
 - Üretime hazır full stack projeler geliştirmek  
 - Yazılım mimarisi konusunda kendimi ileri seviyeye taşımak  
 - Temiz, ölçeklenebilir ve sürdürülebilir sistemler kurmak  
