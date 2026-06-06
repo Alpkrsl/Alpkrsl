@@ -108,7 +108,7 @@ Professional portfolio website showcasing:
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alpemirkarasil25&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpkrsl&theme=tokyonight" />
 
 </p>
 
