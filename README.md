@@ -1,23 +1,26 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e3a8a,100:38bdf8&text=Alpemir%20Karasıl&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20Full%20Stack%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e3a8a,100:38bdf8&text=Alpemir%20Karasıl&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Yazılım%20Mühendisliği%20Öğrencisi%20|%20Full%20Stack%20Developer&descAlignY=58"/>
 
-<h3 align="center">Building modern, scalable and clean software systems</h3>
+<h3 align="center">Modern, temiz ve ölçeklenebilir yazılım sistemleri geliştiriyorum</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alpemirkarasil25&label=Profile%20Views&color=38bdf8&style=for-the-badge" />
+  <a href="https://github.com/Alpkrsl">
+    <img src="https://img.shields.io/badge/GitHub-Alpkrsl-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Alpkrsl&label=Profil%20Görüntülenme&color=38bdf8&style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Hakkımda
 
-- 🎓 Software Engineering Student  
-- 💻 Interested in full stack development and software architecture  
-- 🧩 I enjoy building practical systems with clean structure  
-- 🌱 Currently improving my skills in **ASP.NET, Vue.js, TypeScript, SQL and Git**
+- 🎓 Yazılım Mühendisliği öğrencisiyim  
+- 💻 Full stack geliştirme ve yazılım mimarisiyle ilgileniyorum  
+- 🧩 Temiz, düzenli ve sürdürülebilir kod yapıları kurmayı seviyorum  
+- 🌱 Şu anda **ASP.NET, Vue.js, TypeScript, SQL ve Git** alanlarında kendimi geliştiriyorum  
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Kullandığım Diller ve Araçlar
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,vue,html,css,bootstrap,python,cpp,mysql,postgresql,firebase,supabase,git,github,vscode,visualstudio" />
@@ -25,63 +28,58 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alpemirkarasil25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpemirkarasil25&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alpkrsl&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=tr" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpkrsl&layout=compact&theme=tokyonight&hide_border=true&locale=tr" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alpemirkarasil25&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alpemirkarasil25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com?user=Alpkrsl&theme=highcontrast&hide_border=true&fire=FF6B00&ring=FF6B00&currStreakLabel=FFB000" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 🏆 GitHub Başarılarım
 
-### 📚 Library Automation System
-C# • SQL Server • ADO.NET  
-
-Book management, student records, loan tracking, fine system, triggers and stored procedures.
-
-### 🏥 Hospital Management System
-C# • SQL Server  
-
-Patient, doctor and secretary panels with appointment management.
-
-### 🏦 Banking Automation System
-C# • SQL Server  
-
-Account management, money transfer, transaction history and SHA256 authentication.
-
-### 🌐 Ahenk Platform
-Vue.js • Vuetify • Pinia • Supabase  
-
-Modern community and event platform project.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alpkrsl&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 
 ---
 
-## 🎯 2026 Goals
+## 📂 Öne Çıkan Projelerim
 
-- Master ASP.NET and backend development  
-- Build production-ready full stack projects  
-- Improve software architecture skills  
-- Create clean, scalable and maintainable systems  
-- Contribute more actively to GitHub  
+### 📚 Kütüphane Otomasyon Sistemi  
+**C# • SQL Server • ADO.NET**
+
+Kitap yönetimi, öğrenci kayıtları, kitap ödünç alma sistemi, gecikme cezası, trigger ve stored procedure yapıları.
+
+### 🏥 Hastane Yönetim Sistemi  
+**C# • SQL Server**
+
+Hasta, doktor ve sekreter panelleriyle randevu yönetimi sağlayan masaüstü otomasyon sistemi.
+
+### 🏦 Banka Otomasyon Sistemi  
+**C# • SQL Server**
+
+Hesap yönetimi, para transferi, işlem geçmişi ve SHA256 tabanlı kullanıcı doğrulama sistemi.
+
+---
+
+## 🎯 2026 Hedeflerim
+
+- ASP.NET ve backend geliştirme alanında uzmanlaşmak  
+- Üretime hazır full stack projeler geliştirmek  
+- Yazılım mimarisi konusunda kendimi ileri seviyeye taşımak  
+- Temiz, ölçeklenebilir ve sürdürülebilir sistemler kurmak  
+- GitHub üzerinde daha aktif ve düzenli projeler paylaşmak  
 
 ---
 
 <p align="center">
-  <b>Always Learning • Always Building</b>
+  <b>Her Zaman Öğreniyorum • Her Zaman Geliştiriyorum</b>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0f172a,50:1e3a8a,100:38bdf8"/>
